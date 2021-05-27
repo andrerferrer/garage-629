@@ -1,7 +1,6 @@
 ## Usage
 
-First clone this repository. 
-You must have Node (> v4) and [yarn](https://yarnpkg.com/lang/en/docs/install/) installed.
+To run it, go line by line:
 
 ```bash
 export BATCH_NUMBER=629
